@@ -29,4 +29,4 @@ jobs:
       with:
         name: hello-artifact
     - name: Display artifact content
-      run: cat ./artifacts/hello-artifact/hello.txt
+      run: cat ./artifacts/hello.txt
